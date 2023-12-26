@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup python /opt/mousekeyx/main.py > /dev/null 2>&1&

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/python3 /opt/mousekeyx/main.py
+Terminal=false
