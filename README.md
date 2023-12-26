@@ -1,4 +1,7 @@
-<h1 align="center">MouseKey</h1>
+<div align="center">
+    <h1>MouseKeyX</h1>
+    <img src="https://github.com/aniko33/MouseKeyX/assets/76649588/22660334-12ce-46c8-90b5-34586cfffce7">
+</div>
 
 # Installation
 Clone repository
